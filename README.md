@@ -2,7 +2,9 @@
 
 This is a personal portfolio website built using **React.js**, styled with **Bootstrap**, and integrated with **EmailJS** to provide email services. The portfolio showcases my projects, skills, and experience, with a fully responsive design to ensure it looks great on any device.
 
-![Portfolio Screenshot](screenshot.png) <!-- Add a screenshot of your portfolio here -->
+![Portfolio Screenshot](https://github.com/user-attachments/assets/93fe9f1a-21b8-46e1-a2ee-319d8bfa576a)
+
+ <!-- Add a screenshot of your portfolio here -->
 
 ## Table of Contents
 
@@ -27,7 +29,10 @@ This is a personal portfolio website built using **React.js**, styled with **Boo
 
 ## Demo
 
+
+
 You can view a live demo of the portfolio [here](https://your-portfolio-url.com).
+
 
 ## Technologies Used
 
